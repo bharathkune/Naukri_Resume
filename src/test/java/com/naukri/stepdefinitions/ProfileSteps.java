@@ -16,6 +16,6 @@ public class ProfileSteps {
 
     @When("User uploads a new resume")
     public void user_uploads_a_new_resume() throws InterruptedException {
-        profilePage.uploadResume("C:\\Users\\Admin\\Desktop\\Resume_Bharath\\bharathkqa8@gmail.com\\Bharath_Resume_Automation.pdf");
+        profilePage.uploadResume("C:\\Users\\Admin\\OneDrive\\Desktop\\Resume_Bharath\\bharathkqa8@gmail.com\\Bharath_Automation_Tester_3+yr's.pdf");
     }
 }
