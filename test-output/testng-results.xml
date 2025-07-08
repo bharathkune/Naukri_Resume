@@ -2,26 +2,26 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-09T12:44:02 IST" name="Default suite" finished-at="2025-04-09T12:44:17 IST" duration-ms="15169">
+  <suite started-at="2025-07-08T18:04:38 IST" name="Default suite" finished-at="2025-07-08T18:04:55 IST" duration-ms="16502">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.naukri.tests.TestRunner@1165b38]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2025-04-09T12:44:02 IST" name="Default test" finished-at="2025-04-09T12:44:17 IST" duration-ms="15169">
+    <test started-at="2025-07-08T18:04:38 IST" name="Default test" finished-at="2025-07-08T18:04:55 IST" duration-ms="16502">
       <class name="com.naukri.tests.TestRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.naukri.tests.TestRunner@1165b38]" started-at="2025-04-09T12:44:02 IST" name="setUpClass" finished-at="2025-04-09T12:44:03 IST" duration-ms="770" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.naukri.tests.TestRunner@1165b38]" started-at="2025-07-08T18:04:38 IST" name="setUpClass" finished-at="2025-07-08T18:04:39 IST" duration-ms="574" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@1b15f922]]>
+                <![CDATA[org.testng.TestRunner@4fa822ad]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.naukri.tests.TestRunner@1165b38]" started-at="2025-04-09T12:44:03 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-09T12:44:17 IST" duration-ms="14304" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.naukri.tests.TestRunner@1165b38]" started-at="2025-07-08T18:04:39 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-08T18:04:55 IST" duration-ms="15840" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.naukri.tests.TestRunner@1165b38]" started-at="2025-04-09T12:44:17 IST" name="tearDownClass" finished-at="2025-04-09T12:44:17 IST" duration-ms="57" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.naukri.tests.TestRunner@1165b38]" started-at="2025-07-08T18:04:55 IST" name="tearDownClass" finished-at="2025-07-08T18:04:55 IST" duration-ms="55" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
