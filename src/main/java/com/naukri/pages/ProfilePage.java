@@ -1,7 +1,6 @@
 package com.naukri.pages;
 
 import java.time.Duration;
-import org.testng.Assert;
 
 
 import org.openqa.selenium.By;
